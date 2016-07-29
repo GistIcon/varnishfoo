@@ -206,7 +206,7 @@ Adding other headers is done the same way::
         Host: kly.no
         If-Modified-Since:  Tue, 24 Nov 2015 20:51:14 GMT
         User-Agent: HTTPie/0.8.0
-
+#
         HTTP/1.1 304 Not Modified
         Age: 5
         Connection: keep-alive
